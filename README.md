@@ -2,7 +2,7 @@
 ![github_teaser](https://user-images.githubusercontent.com/11302762/178145547-89f1a095-cfd9-4ee8-909f-531fa320f084.jpg)
 
 ## Latest Release Download
-See Releases page or click here: [Latest Release](https://github.com/bestdani/msfs2blend/releases/download/v0.1.1/io_msfs_gltf.py)
+See Releases page or click here: [Latest Release](https://github.com/bestdani/msfs2blend/releases/download/v0.4/io_msfs_gltf.py)
 
 ## How To Install and Use
 **Enter required paths in the addon preferences:**
